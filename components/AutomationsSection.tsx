@@ -53,7 +53,7 @@ export const AutomationsSection: React.FC = () => {
                 </div>
 
                 <div className="mt-16 text-center">
-                    <a href="#contact" className="bg-indigo-600 text-white font-semibold px-8 py-4 rounded-xl shadow-md hover:shadow-lg transition-all transform hover:-translate-y-1 hover:bg-indigo-700 cursor-pointer">
+                    <a href="https://evolvance.es/services" target="_blank" rel="noopener noreferrer" className="bg-indigo-600 text-white font-semibold px-8 py-4 rounded-xl shadow-md hover:shadow-lg transition-all transform hover:-translate-y-1 hover:bg-indigo-700 cursor-pointer">
                         Saber más
                     </a>
                 </div>

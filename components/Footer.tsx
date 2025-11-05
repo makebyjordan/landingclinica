@@ -25,7 +25,7 @@ export const Footer: React.FC = () => {
           </div>
 
           <div className="mt-10 text-center">
-            <a href="https://wa.me/34601869868" target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-600 text-white font-bold px-8 py-4 rounded-xl hover:bg-indigo-700 transition-all text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1">
+            <a href="https://wa.me/34601869668" target="_blank" rel="noopener noreferrer" className="inline-block bg-indigo-600 text-white font-bold px-8 py-4 rounded-xl hover:bg-indigo-700 transition-all text-lg shadow-lg hover:shadow-xl transform hover:-translate-y-1">
               Consúltanos tu proyecto
             </a>
           </div>

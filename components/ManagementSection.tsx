@@ -6,7 +6,7 @@ export const ManagementSection: React.FC = () => {
         <section id="management" className="py-20 bg-white">
             <div className="container mx-auto px-6">
                 <div className="text-center mb-16 max-w-4xl mx-auto">
-                    <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900">Herramientas de organización hechas para ti</h2>
+                    <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900">Programas de Gestión</h2>
                     <p className="mt-4 text-lg text-gray-600">
                         Te ayudamos a organizar tu clínica de forma fácil: desde el control de pacientes, facturas, inventario y horarios de empleados. Todo adaptado a lo que necesites.
                     </p>
